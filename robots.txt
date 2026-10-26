@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://louer-ou-acheter.eric-fortier.com/sitemap.xml
